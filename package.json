@@ -1,0 +1,25 @@
+{
+  "name": "roit-prototype",
+  "version": "1.0.0",
+  "description": "nodejs app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxdevm/RIOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxdevm/RIOT/issues"
+  },
+  "homepage": "https://github.com/lxdevm/RIOT#readme",
+  "dependencies": {
+    "apiai": "^4.0.3"
+  }
+}
