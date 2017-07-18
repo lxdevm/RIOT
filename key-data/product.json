@@ -1,20 +1,20 @@
 [
   {
-  "SuplyName": "ISE Internal Standard Generation 2",
+  "SupplyName": "ISE Internal Standard Generation 2",
   "SupplyType": "Washing Solution",
   "SupplyNumber": "1",
-  "SuplyRename":""
+  "SupplyRename":""
 }, {
-"SuplyName": "Cell I / NaOH - D",
+"SupplyName": "Cell I / NaOH - D",
 "SupplyType": "Washing Solution",
 "SupplyNumber": "2",
-"SuplyRename":""
+"SupplyRename":""
 }
 {
-"SuplyName": "Cell I / NaOH - D",
-"SupplyType": "Washing Solution",
+"SupplyName": "ISE Diluent Generation 2",
+"SupplyType": "Diluent",
 "SupplyNumber": "3",
-"SuplyRename":""
+"SupplyRename":""
 }
 
 ]
